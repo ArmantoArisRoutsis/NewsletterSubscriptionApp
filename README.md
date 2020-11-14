@@ -1,7 +1,7 @@
 # TO DO LIST
 
 ## About
-###### This is my Version of the classic To-Do-List. I made this web application using Node.js & Express.js for the backend. For the database I used MongoDB. As for the front end just basic HTML5 & CSS3 was used along with EJS templating. The application gives you the option to add and remove items from a default-list. Aside from that the user is also given the ability to create multiple other lists.
+###### This is a simple Newsletter Subscription application. It utilises the Mailchimp API so when the user subscribes the information inputted by the user will be sent to the mailchimp server and there they can be used by the administrator to send emails to the subscribed users.
 
 
 ## Features
